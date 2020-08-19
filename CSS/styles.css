@@ -72,7 +72,7 @@ h3 {
 }
 
 hr {
-    border: dotted #EAF6F6 6px;
+    border: dotted rgb(218, 217, 217) 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
